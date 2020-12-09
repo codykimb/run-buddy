@@ -214,8 +214,20 @@ margin: 0px 5px;
   }
 /* MEET THE TRAINERS STYLE END*/
 
+/* GRID STYLE */
+.service-grid-container {
+    display: grid;
+}
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+/* GRID STYLE END */
 
-  /* REACH OUT STYLE */
+/* REACH OUT STYLE */
     .contact {
     background: #024e76;
   }
@@ -269,7 +281,7 @@ margin: 0px 5px;
     padding: 15px 0;
     font-size: 16px;
   }
-  /* REACH OUT STYLE END */
+/* REACH OUT STYLE END */
 
 .flex-row {
     display: flex;
